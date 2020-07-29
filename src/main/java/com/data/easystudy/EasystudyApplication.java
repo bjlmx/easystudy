@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.scheduling.annotation.EnableAsync;
 
 /**
- * dev分支
+ * dev分支开发 主分支不动
  */
 @SpringBootApplication
 @EnableAsync
