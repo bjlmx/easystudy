@@ -5,6 +5,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.scheduling.annotation.EnableAsync;
 
+/**
+ * dev分支
+ */
 @SpringBootApplication
 @EnableAsync
 @MapperScan("com.data.easystudy.mapper")
