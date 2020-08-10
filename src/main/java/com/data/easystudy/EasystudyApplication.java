@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.scheduling.annotation.EnableAsync;
 
 /**
- * 8.5开辟新的分支
+ * 8.5-v1开辟新的分支
  */
 @SpringBootApplication
 @EnableAsync
