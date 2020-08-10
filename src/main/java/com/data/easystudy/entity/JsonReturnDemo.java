@@ -5,7 +5,7 @@ import java.util.List;
 /** @author Baijl
  * 2020/8/10 
  * 14:06 
- * @description
+ * @description json转化为java类
  */
 public class JsonReturnDemo {
     /**
